@@ -1,24 +1,24 @@
 .main {
-    border: 5px solid yellow;
+    border: 20px solid yellow;
     width: 50%;
-    padding: 1% 15px 20px 10%;
-    margin: 15% 40%  70% 25%;
+    padding: 1% 20px 20px 10%;
+    margin: 10% 20%  70% 19%;
     outline:solid yellow;
 
 }
 .inner {
-    border: 3px solid red;
+    border: 10px solid red;
     width: 40%;
     padding: 10% 20% 5% 20%;
     margin: 30px;
-    outline: solid red;
+    outline: dashed red;
 }
 .in {
-    border: 2px solid green;
+    border: 15px solid green;
     width: 40% ;
     padding: 5% 15% 3% 10% ;
-    margin: 20px;
-    outline:solid green;
+    margin: 50px;
+    outline:dotted green;
 }
   
   
